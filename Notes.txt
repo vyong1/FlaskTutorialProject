@@ -1,0 +1,7 @@
+Tutorial link: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+How to start debugging:
+cd to microblog
+python run.py
+
+Ctrl + C in terminal to stop debugging
