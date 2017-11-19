@@ -2,6 +2,6 @@ Tutorial link: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part
 
 How to start debugging:
 cd to microblog
-python run.py
+flask\scripts\python run.py (this uses the virtual environment's python, which has all the necessary packages)
 
 Ctrl + C in terminal to stop debugging
